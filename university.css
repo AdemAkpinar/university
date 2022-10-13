@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+width: 100%;
+min-height: 100vh;
+background-image: url(/Ders/img2/banner1.png), linear-gradient(rgba(4,5,6,0.5), rgba(4,5,6,0.5));
+background-position: center;
+position: relative;
+background-size: cover;
+}
+
+.nav-links{
+    background-color: yellow;
+}
